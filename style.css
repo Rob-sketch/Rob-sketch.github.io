@@ -1,0 +1,26 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    color: #333;
+  }
+  
+  .main-ui {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .our-form {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .status {
+    text-align: center;
+    font-size: .85rem;
+  }
+  
+  .boxes {
+    display: flex;
+    width: 100%;
+  }
+  
